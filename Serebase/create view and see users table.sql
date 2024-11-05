@@ -1,4 +1,4 @@
-CREATE VIEW  vw_Users as
+CREATE VIEWÂ  vw_Users as
 SELECT
 u.userid,
 u.firstname,
